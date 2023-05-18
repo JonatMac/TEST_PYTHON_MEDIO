@@ -1,0 +1,1194 @@
+2023-05-17 12:13:55,699 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 12:13:55,700 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 12:14:05,557 INFO | 127.0.0.1 - - [17/May/2023 12:14:05] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 12:14:05,665 INFO | 127.0.0.1 - - [17/May/2023 12:14:05] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 12:14:05,959 INFO | 127.0.0.1 - - [17/May/2023 12:14:05] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 12:14:06,055 INFO | 127.0.0.1 - - [17/May/2023 12:14:06] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 12:14:06,465 INFO | 127.0.0.1 - - [17/May/2023 12:14:06] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 12:14:06,469 INFO | 127.0.0.1 - - [17/May/2023 12:14:06] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 16:02:33,110 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 16:02:33,110 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 16:02:38,707 INFO | 127.0.0.1 - - [17/May/2023 16:02:38] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 16:02:38,759 INFO | 127.0.0.1 - - [17/May/2023 16:02:38] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 16:02:39,199 INFO | 127.0.0.1 - - [17/May/2023 16:02:39] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 16:02:39,246 INFO | 127.0.0.1 - - [17/May/2023 16:02:39] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 16:02:39,614 INFO | 127.0.0.1 - - [17/May/2023 16:02:39] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 16:02:39,617 INFO | 127.0.0.1 - - [17/May/2023 16:02:39] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 16:03:16,603 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 16:03:16,603 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 16:03:23,876 INFO | 127.0.0.1 - - [17/May/2023 16:03:23] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 16:03:23,906 INFO | 127.0.0.1 - - [17/May/2023 16:03:23] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 16:03:24,133 INFO | 127.0.0.1 - - [17/May/2023 16:03:24] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 16:03:24,195 INFO | 127.0.0.1 - - [17/May/2023 16:03:24] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 16:03:24,577 INFO | 127.0.0.1 - - [17/May/2023 16:03:24] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 16:03:24,581 INFO | 127.0.0.1 - - [17/May/2023 16:03:24] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 16:03:52,124 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 16:03:52,136 INFO | Inicio de conexión
+2023-05-17 16:03:53,131 INFO | Inicio de conexión
+2023-05-17 16:03:53,854 INFO | Fin de conexión
+2023-05-17 16:03:53,855 INFO | Fin de conexión
+2023-05-17 16:03:53,862 INFO | 127.0.0.1 - - [17/May/2023 16:03:53] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 16:07:12,368 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 16:07:12,369 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 16:07:17,679 INFO | 127.0.0.1 - - [17/May/2023 16:07:17] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 16:07:17,717 INFO | 127.0.0.1 - - [17/May/2023 16:07:17] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 16:07:17,941 INFO | 127.0.0.1 - - [17/May/2023 16:07:17] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 16:07:18,004 INFO | 127.0.0.1 - - [17/May/2023 16:07:18] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 16:07:18,365 INFO | 127.0.0.1 - - [17/May/2023 16:07:18] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 16:07:18,366 INFO | 127.0.0.1 - - [17/May/2023 16:07:18] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 16:07:32,428 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 16:07:32,431 INFO | Inicio de conexión
+2023-05-17 16:07:33,119 INFO | Inicio de conexión
+2023-05-17 16:07:33,809 INFO | Fin de conexión
+2023-05-17 16:07:33,810 INFO | Fin de conexión
+2023-05-17 16:07:33,813 INFO | 127.0.0.1 - - [17/May/2023 16:07:33] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=4 HTTP/1.1" 200 -
+2023-05-17 16:08:04,953 INFO | 127.0.0.1 - - [17/May/2023 16:08:04] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 16:08:05,103 INFO | 127.0.0.1 - - [17/May/2023 16:08:05] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js.map HTTP/1.1[0m" 304 -
+2023-05-17 16:08:05,103 INFO | 127.0.0.1 - - [17/May/2023 16:08:05] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js.map HTTP/1.1[0m" 304 -
+2023-05-17 16:08:05,230 INFO | 127.0.0.1 - - [17/May/2023 16:08:05] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css.map HTTP/1.1[0m" 304 -
+2023-05-17 16:42:32,857 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 16:42:32,858 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 16:42:43,452 INFO | 127.0.0.1 - - [17/May/2023 16:42:43] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 16:42:43,553 INFO | 127.0.0.1 - - [17/May/2023 16:42:43] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 16:42:43,705 INFO | 127.0.0.1 - - [17/May/2023 16:42:43] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 16:42:43,781 INFO | 127.0.0.1 - - [17/May/2023 16:42:43] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 16:42:44,144 INFO | 127.0.0.1 - - [17/May/2023 16:42:44] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 16:42:44,148 INFO | 127.0.0.1 - - [17/May/2023 16:42:44] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 16:42:49,994 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 16:42:49,997 INFO | Inicio de conexión
+2023-05-17 16:42:50,878 INFO | Inicio de conexión
+2023-05-17 16:42:51,560 INFO | Fin de conexión
+2023-05-17 16:42:51,562 INFO | Fin de conexión
+2023-05-17 16:42:51,565 INFO | 127.0.0.1 - - [17/May/2023 16:42:51] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=4 HTTP/1.1" 200 -
+2023-05-17 16:50:02,656 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 16:50:02,656 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 16:50:09,177 INFO | 127.0.0.1 - - [17/May/2023 16:50:09] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 16:50:09,237 INFO | 127.0.0.1 - - [17/May/2023 16:50:09] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 16:50:09,663 INFO | 127.0.0.1 - - [17/May/2023 16:50:09] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 16:50:09,711 INFO | 127.0.0.1 - - [17/May/2023 16:50:09] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 16:50:10,066 INFO | 127.0.0.1 - - [17/May/2023 16:50:10] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 16:50:10,070 INFO | 127.0.0.1 - - [17/May/2023 16:50:10] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 16:50:33,605 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 16:50:33,614 INFO | Inicio de conexión
+2023-05-17 16:50:34,444 INFO | Fin de conexión
+2023-05-17 16:50:34,447 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-17 16:50:34,449 INFO | 127.0.0.1 - - [17/May/2023 16:50:34] "GET /rest/inventory-ms/v1.0/item/6 HTTP/1.1" 200 -
+2023-05-17 17:00:27,998 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:00:27,999 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:00:34,695 INFO | 127.0.0.1 - - [17/May/2023 17:00:34] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:00:34,733 INFO | 127.0.0.1 - - [17/May/2023 17:00:34] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:00:34,955 INFO | 127.0.0.1 - - [17/May/2023 17:00:34] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:00:35,016 INFO | 127.0.0.1 - - [17/May/2023 17:00:35] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:00:35,371 INFO | 127.0.0.1 - - [17/May/2023 17:00:35] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:00:35,373 INFO | 127.0.0.1 - - [17/May/2023 17:00:35] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:00:45,807 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:00:45,810 INFO | Inicio de conexión
+2023-05-17 17:00:46,583 INFO | Inicio de conexión
+2023-05-17 17:00:47,268 INFO | Fin de conexión
+2023-05-17 17:00:47,270 INFO | Fin de conexión
+2023-05-17 17:00:47,271 ERROR | Exception on /rest/inventory-ms/v1.0/Item/buy [GET]
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 120, in get_item_buy
+    item_updated = item_use_case.update(item_id, item_cantidad)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\uses_cases\item_use_case.py", line 36, in update
+    response = self.item_repository.update(item_id, item_cantidad)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\repository\item_repository.py", line 22, in update
+    val_item_stock=val_item["data"]["stock"]
+                   ~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\decorator.py", line 68, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\uri_parsing.py", line 149, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\validation.py", line 399, in wrapper
+    return function(request)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\parameter.py", line 120, in wrapper
+    return function(**kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 132, in get_item_buy
+    error_message=str(item_updated)
+                      ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'item_updated' where it is not associated with a value
+2023-05-17 17:00:47,318 INFO | 127.0.0.1 - - [17/May/2023 17:00:47] "[35m[1mGET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1[0m" 500 -
+2023-05-17 17:09:21,525 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:09:21,526 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:09:28,774 INFO | 127.0.0.1 - - [17/May/2023 17:09:28] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:09:28,807 INFO | 127.0.0.1 - - [17/May/2023 17:09:28] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:09:29,017 INFO | 127.0.0.1 - - [17/May/2023 17:09:29] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:09:29,097 INFO | 127.0.0.1 - - [17/May/2023 17:09:29] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:09:29,441 INFO | 127.0.0.1 - - [17/May/2023 17:09:29] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:09:29,444 INFO | 127.0.0.1 - - [17/May/2023 17:09:29] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:09:35,119 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:09:35,121 INFO | Inicio de conexión
+2023-05-17 17:09:35,896 INFO | Inicio de conexión
+2023-05-17 17:09:36,581 INFO | Fin de conexión
+2023-05-17 17:09:36,583 INFO | Fin de conexión
+2023-05-17 17:09:36,585 ERROR | Exception on /rest/inventory-ms/v1.0/Item/buy [GET]
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 120, in get_item_buy
+    item_updated = item_use_case.update(item_id, item_cantidad)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\uses_cases\item_use_case.py", line 36, in update
+    response = self.item_repository.update(item_id, item_cantidad)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\repository\item_repository.py", line 22, in update
+    val_item_stock=val_item[0][3]
+                   ~~~~~~~~~~~^^^
+KeyError: 3
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\decorator.py", line 68, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\uri_parsing.py", line 149, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\validation.py", line 399, in wrapper
+    return function(request)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\parameter.py", line 120, in wrapper
+    return function(**kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 132, in get_item_buy
+    error_message=str(item_updated)
+                      ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'item_updated' where it is not associated with a value
+2023-05-17 17:09:36,594 INFO | 127.0.0.1 - - [17/May/2023 17:09:36] "[35m[1mGET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=4 HTTP/1.1[0m" 500 -
+2023-05-17 17:13:01,277 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:13:01,277 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:13:05,196 INFO | 127.0.0.1 - - [17/May/2023 17:13:05] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:13:05,228 INFO | 127.0.0.1 - - [17/May/2023 17:13:05] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:13:05,453 INFO | 127.0.0.1 - - [17/May/2023 17:13:05] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:13:05,515 INFO | 127.0.0.1 - - [17/May/2023 17:13:05] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:13:05,868 INFO | 127.0.0.1 - - [17/May/2023 17:13:05] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:13:05,869 INFO | 127.0.0.1 - - [17/May/2023 17:13:05] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:13:11,734 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:13:11,737 INFO | Inicio de conexión
+2023-05-17 17:13:12,396 INFO | Inicio de conexión
+2023-05-17 17:13:13,071 INFO | Fin de conexión
+2023-05-17 17:13:13,072 INFO | Fin de conexión
+2023-05-17 17:13:13,074 INFO | 127.0.0.1 - - [17/May/2023 17:13:13] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:14:39,235 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:14:39,235 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:14:42,712 INFO | 127.0.0.1 - - [17/May/2023 17:14:42] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:14:42,743 INFO | 127.0.0.1 - - [17/May/2023 17:14:42] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:14:42,973 INFO | 127.0.0.1 - - [17/May/2023 17:14:42] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:14:43,034 INFO | 127.0.0.1 - - [17/May/2023 17:14:43] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:14:43,449 INFO | 127.0.0.1 - - [17/May/2023 17:14:43] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:14:43,450 INFO | 127.0.0.1 - - [17/May/2023 17:14:43] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:15:09,991 INFO | 127.0.0.1 - - [17/May/2023 17:15:09] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:15:10,296 INFO | 127.0.0.1 - - [17/May/2023 17:15:10] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:15:10,310 INFO | 127.0.0.1 - - [17/May/2023 17:15:10] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:15:10,311 INFO | 127.0.0.1 - - [17/May/2023 17:15:10] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:15:10,723 INFO | 127.0.0.1 - - [17/May/2023 17:15:10] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:15:10,725 INFO | 127.0.0.1 - - [17/May/2023 17:15:10] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:15:16,649 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:15:16,651 INFO | Inicio de conexión
+2023-05-17 17:15:17,332 INFO | Inicio de conexión
+2023-05-17 17:15:18,007 INFO | Fin de conexión
+2023-05-17 17:15:18,009 INFO | Fin de conexión
+2023-05-17 17:15:18,010 ERROR | Exception on /rest/inventory-ms/v1.0/Item/buy [GET]
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 120, in get_item_buy
+    item_updated = item_use_case.update(item_id, item_cantidad)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\uses_cases\item_use_case.py", line 36, in update
+    response = self.item_repository.update(item_id, item_cantidad)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\repository\item_repository.py", line 22, in update
+    val_item_stock=val_item[0][3]
+                   ~~~~~~~~~~~^^^
+KeyError: 3
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\decorator.py", line 68, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\uri_parsing.py", line 149, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\validation.py", line 399, in wrapper
+    return function(request)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\parameter.py", line 120, in wrapper
+    return function(**kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 132, in get_item_buy
+    error_message=str(self.response) #(err)
+                      ^^^^^^^^^^^^^
+AttributeError: 'ItemView' object has no attribute 'response'
+2023-05-17 17:15:18,019 INFO | 127.0.0.1 - - [17/May/2023 17:15:18] "[35m[1mGET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1[0m" 500 -
+2023-05-17 17:15:57,716 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:15:57,716 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:16:03,471 INFO | 127.0.0.1 - - [17/May/2023 17:16:03] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:16:03,502 INFO | 127.0.0.1 - - [17/May/2023 17:16:03] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:16:03,729 INFO | 127.0.0.1 - - [17/May/2023 17:16:03] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:16:03,790 INFO | 127.0.0.1 - - [17/May/2023 17:16:03] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:16:04,156 INFO | 127.0.0.1 - - [17/May/2023 17:16:04] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:16:04,158 INFO | 127.0.0.1 - - [17/May/2023 17:16:04] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:16:08,520 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:16:08,522 INFO | Inicio de conexión
+2023-05-17 17:16:09,238 INFO | Inicio de conexión
+2023-05-17 17:16:09,914 INFO | Fin de conexión
+2023-05-17 17:16:09,915 INFO | Fin de conexión
+2023-05-17 17:16:09,916 ERROR | Exception on /rest/inventory-ms/v1.0/Item/buy [GET]
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 120, in get_item_buy
+    item_updated = item_use_case.update(item_id, item_cantidad)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\uses_cases\item_use_case.py", line 36, in update
+    response = self.item_repository.update(item_id, item_cantidad)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\repository\item_repository.py", line 22, in update
+    val_item_stock=val_item[0][3]
+                   ~~~~~~~~~~~^^^
+KeyError: 3
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\decorator.py", line 68, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\uri_parsing.py", line 149, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\validation.py", line 399, in wrapper
+    return function(request)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\parameter.py", line 120, in wrapper
+    return function(**kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 132, in get_item_buy
+    error_message=str(response) #(err)
+                      ^^^^^^^^
+UnboundLocalError: cannot access local variable 'response' where it is not associated with a value
+2023-05-17 17:16:09,925 INFO | 127.0.0.1 - - [17/May/2023 17:16:09] "[35m[1mGET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1[0m" 500 -
+2023-05-17 17:20:51,359 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:20:51,359 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:20:57,558 INFO | 127.0.0.1 - - [17/May/2023 17:20:57] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:20:57,589 INFO | 127.0.0.1 - - [17/May/2023 17:20:57] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:20:57,810 INFO | 127.0.0.1 - - [17/May/2023 17:20:57] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:20:57,881 INFO | 127.0.0.1 - - [17/May/2023 17:20:57] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:20:58,231 INFO | 127.0.0.1 - - [17/May/2023 17:20:58] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:20:58,234 INFO | 127.0.0.1 - - [17/May/2023 17:20:58] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:21:03,470 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:21:03,471 INFO | Inicio de conexión
+2023-05-17 17:21:04,496 INFO | Inicio de conexión
+2023-05-17 17:21:05,266 INFO | Fin de conexión
+2023-05-17 17:21:05,268 INFO | Fin de conexión
+2023-05-17 17:21:05,270 ERROR | Exception on /rest/inventory-ms/v1.0/Item/buy [GET]
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 120, in get_item_buy
+    item_updated = item_use_case.update(item_id, item_cantidad)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\uses_cases\item_use_case.py", line 36, in update
+    response = self.item_repository.update(item_id, item_cantidad)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\repository\item_repository.py", line 24, in update
+    item_stock = val_item_stock - item_cantidad
+                 ~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'dict' and 'int'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\decorator.py", line 68, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\uri_parsing.py", line 149, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\validation.py", line 399, in wrapper
+    return function(request)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\parameter.py", line 120, in wrapper
+    return function(**kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 132, in get_item_buy
+    error_message=str(response) #(err)
+                      ^^^^^^^^
+UnboundLocalError: cannot access local variable 'response' where it is not associated with a value
+2023-05-17 17:21:05,278 INFO | 127.0.0.1 - - [17/May/2023 17:21:05] "[35m[1mGET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1[0m" 500 -
+2023-05-17 17:24:43,388 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:24:43,388 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:24:46,939 INFO | 127.0.0.1 - - [17/May/2023 17:24:46] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:24:46,972 INFO | 127.0.0.1 - - [17/May/2023 17:24:46] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:24:47,200 INFO | 127.0.0.1 - - [17/May/2023 17:24:47] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:24:47,259 INFO | 127.0.0.1 - - [17/May/2023 17:24:47] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:24:47,610 INFO | 127.0.0.1 - - [17/May/2023 17:24:47] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:24:47,613 INFO | 127.0.0.1 - - [17/May/2023 17:24:47] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:24:53,293 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:24:53,295 INFO | Inicio de conexión
+2023-05-17 17:24:53,946 INFO | Inicio de conexión
+2023-05-17 17:24:54,649 INFO | Fin de conexión
+2023-05-17 17:24:54,651 INFO | Fin de conexión
+2023-05-17 17:24:54,653 ERROR | Exception on /rest/inventory-ms/v1.0/Item/buy [GET]
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 120, in get_item_buy
+    item_updated = item_use_case.update(item_id, item_cantidad)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\uses_cases\item_use_case.py", line 36, in update
+    response = self.item_repository.update(item_id, item_cantidad)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\repository\item_repository.py", line 25, in update
+    item_stock = val_item_stock - item_cantidad
+                 ~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'dict' and 'int'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\decorator.py", line 68, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\uri_parsing.py", line 149, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\validation.py", line 399, in wrapper
+    return function(request)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\parameter.py", line 120, in wrapper
+    return function(**kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 132, in get_item_buy
+    error_message=str(response) #(err)
+                      ^^^^^^^^
+UnboundLocalError: cannot access local variable 'response' where it is not associated with a value
+2023-05-17 17:24:54,660 INFO | 127.0.0.1 - - [17/May/2023 17:24:54] "[35m[1mGET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1[0m" 500 -
+2023-05-17 17:27:05,197 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:27:05,198 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:27:11,238 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:27:11,240 INFO | Inicio de conexión
+2023-05-17 17:27:11,878 INFO | Inicio de conexión
+2023-05-17 17:27:12,562 INFO | Fin de conexión
+2023-05-17 17:27:12,563 INFO | Fin de conexión
+2023-05-17 17:27:12,565 INFO | 127.0.0.1 - - [17/May/2023 17:27:12] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:27:29,189 INFO | 127.0.0.1 - - [17/May/2023 17:27:29] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:27:29,509 INFO | 127.0.0.1 - - [17/May/2023 17:27:29] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:27:29,513 INFO | 127.0.0.1 - - [17/May/2023 17:27:29] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:27:29,513 INFO | 127.0.0.1 - - [17/May/2023 17:27:29] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:27:29,935 INFO | 127.0.0.1 - - [17/May/2023 17:27:29] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:27:29,936 INFO | 127.0.0.1 - - [17/May/2023 17:27:29] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:27:39,770 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:27:39,771 INFO | Inicio de conexión
+2023-05-17 17:27:40,268 INFO | Inicio de conexión
+2023-05-17 17:27:40,931 INFO | Fin de conexión
+2023-05-17 17:27:40,932 INFO | Fin de conexión
+2023-05-17 17:27:40,933 INFO | 127.0.0.1 - - [17/May/2023 17:27:40] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:27:58,433 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:27:58,434 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:28:01,243 INFO | 127.0.0.1 - - [17/May/2023 17:28:01] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:28:01,277 INFO | 127.0.0.1 - - [17/May/2023 17:28:01] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:28:01,500 INFO | 127.0.0.1 - - [17/May/2023 17:28:01] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:28:01,561 INFO | 127.0.0.1 - - [17/May/2023 17:28:01] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:28:01,928 INFO | 127.0.0.1 - - [17/May/2023 17:28:01] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:28:01,930 INFO | 127.0.0.1 - - [17/May/2023 17:28:01] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:28:07,069 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:28:07,072 INFO | Inicio de conexión
+2023-05-17 17:28:07,888 INFO | Inicio de conexión
+2023-05-17 17:28:08,563 INFO | Fin de conexión
+2023-05-17 17:28:08,565 INFO | Fin de conexión
+2023-05-17 17:28:08,566 ERROR | Exception on /rest/inventory-ms/v1.0/Item/buy [GET]
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 120, in get_item_buy
+    item_updated = item_use_case.update(item_id, item_cantidad)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\uses_cases\item_use_case.py", line 36, in update
+    response = self.item_repository.update(item_id, item_cantidad)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\repository\item_repository.py", line 23, in update
+    val_stock=val_item_stock[0][3]
+              ~~~~~~~~~~~~~~^^^
+TypeError: 'int' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\decorator.py", line 68, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\uri_parsing.py", line 149, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\validation.py", line 399, in wrapper
+    return function(request)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\parameter.py", line 120, in wrapper
+    return function(**kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 132, in get_item_buy
+    error_message=str(response) #(err)
+                      ^^^^^^^^
+UnboundLocalError: cannot access local variable 'response' where it is not associated with a value
+2023-05-17 17:28:08,575 INFO | 127.0.0.1 - - [17/May/2023 17:28:08] "[35m[1mGET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1[0m" 500 -
+2023-05-17 17:29:26,174 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:29:26,175 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:29:33,742 INFO | 127.0.0.1 - - [17/May/2023 17:29:33] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:29:33,772 INFO | 127.0.0.1 - - [17/May/2023 17:29:33] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:29:34,001 INFO | 127.0.0.1 - - [17/May/2023 17:29:34] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:29:34,064 INFO | 127.0.0.1 - - [17/May/2023 17:29:34] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:29:34,396 INFO | 127.0.0.1 - - [17/May/2023 17:29:34] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:29:34,397 INFO | 127.0.0.1 - - [17/May/2023 17:29:34] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:29:40,501 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:29:40,504 INFO | Inicio de conexión
+2023-05-17 17:29:41,411 INFO | Inicio de conexión
+2023-05-17 17:29:42,083 INFO | Fin de conexión
+2023-05-17 17:29:42,085 INFO | Fin de conexión
+2023-05-17 17:29:42,087 INFO | 127.0.0.1 - - [17/May/2023 17:29:42] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:30:47,051 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:30:47,051 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:31:14,751 INFO | 127.0.0.1 - - [17/May/2023 17:31:14] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 17:31:14,785 INFO | 127.0.0.1 - - [17/May/2023 17:31:14] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 17:31:15,010 INFO | 127.0.0.1 - - [17/May/2023 17:31:15] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 17:31:15,072 INFO | 127.0.0.1 - - [17/May/2023 17:31:15] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 17:31:15,423 INFO | 127.0.0.1 - - [17/May/2023 17:31:15] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 17:31:15,425 INFO | 127.0.0.1 - - [17/May/2023 17:31:15] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 17:31:20,358 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:31:20,360 INFO | Inicio de conexión
+2023-05-17 17:31:21,160 INFO | Inicio de conexión
+2023-05-17 17:31:21,842 INFO | Fin de conexión
+2023-05-17 17:31:21,844 INFO | Fin de conexión
+2023-05-17 17:31:21,845 ERROR | Exception on /rest/inventory-ms/v1.0/Item/buy [GET]
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 120, in get_item_buy
+    item_updated = item_use_case.update(item_id, item_cantidad)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\uses_cases\item_use_case.py", line 36, in update
+    response = self.item_repository.update(item_id, item_cantidad)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\repository\item_repository.py", line 23, in update
+    val_stock=val_item_stock[3]
+              ~~~~~~~~~~~~~~^^^
+TypeError: 'int' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\decorator.py", line 68, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\uri_parsing.py", line 149, in wrapper
+    response = function(request)
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\validation.py", line 399, in wrapper
+    return function(request)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\myvenv\Lib\site-packages\connexion\decorators\parameter.py", line 120, in wrapper
+    return function(**kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HITSS\Documents\CURSOS-HITSS\CURSO_PYTHON\EXAMEN_PYTHON_MEDIO\test\swagger_server\controllers\item_view.py", line 132, in get_item_buy
+    error_message=str(response) #(err)
+                      ^^^^^^^^
+UnboundLocalError: cannot access local variable 'response' where it is not associated with a value
+2023-05-17 17:31:21,854 INFO | 127.0.0.1 - - [17/May/2023 17:31:21] "[35m[1mGET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1[0m" 500 -
+2023-05-17 17:32:10,350 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:32:10,350 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:32:18,344 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:32:18,344 INFO | Inicio de conexión
+2023-05-17 17:32:19,098 INFO | Inicio de conexión
+2023-05-17 17:32:19,783 INFO | Fin de conexión
+2023-05-17 17:32:19,784 INFO | Fin de conexión
+2023-05-17 17:32:19,786 INFO | 127.0.0.1 - - [17/May/2023 17:32:19] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:32:55,887 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:32:55,888 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:32:58,416 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:32:58,417 INFO | Inicio de conexión
+2023-05-17 17:32:59,072 INFO | Inicio de conexión
+2023-05-17 17:32:59,755 INFO | Fin de conexión
+2023-05-17 17:32:59,757 INFO | Fin de conexión
+2023-05-17 17:32:59,759 INFO | 127.0.0.1 - - [17/May/2023 17:32:59] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:34:30,836 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:34:30,836 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:34:34,140 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:34:34,141 INFO | Inicio de conexión
+2023-05-17 17:34:34,785 INFO | Inicio de conexión
+2023-05-17 17:34:35,452 INFO | Fin de conexión
+2023-05-17 17:34:35,453 INFO | Fin de conexión
+2023-05-17 17:34:35,454 INFO | 127.0.0.1 - - [17/May/2023 17:34:35] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:35:28,966 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:35:28,966 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:35:31,856 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:35:31,857 INFO | Inicio de conexión
+2023-05-17 17:35:32,595 INFO | Inicio de conexión
+2023-05-17 17:35:33,266 INFO | Fin de conexión
+2023-05-17 17:35:33,269 INFO | Fin de conexión
+2023-05-17 17:35:33,271 INFO | 127.0.0.1 - - [17/May/2023 17:35:33] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:37:36,348 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:37:36,349 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:39:35,558 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:39:35,559 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:39:41,386 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:39:41,387 INFO | Inicio de conexión
+2023-05-17 17:39:42,279 INFO | Inicio de conexión
+2023-05-17 17:39:42,950 INFO | Fin de conexión
+2023-05-17 17:39:42,953 INFO | Fin de conexión
+2023-05-17 17:39:42,955 INFO | 127.0.0.1 - - [17/May/2023 17:39:42] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:40:50,832 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:40:50,833 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:40:57,012 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:40:57,013 INFO | Inicio de conexión
+2023-05-17 17:40:57,643 INFO | Inicio de conexión
+2023-05-17 17:40:58,321 INFO | Fin de conexión
+2023-05-17 17:40:58,324 INFO | Fin de conexión
+2023-05-17 17:40:58,326 INFO | 127.0.0.1 - - [17/May/2023 17:40:58] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:47:26,767 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:47:26,768 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:47:30,600 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:47:30,600 INFO | Inicio de conexión
+2023-05-17 17:47:31,244 INFO | Inicio de conexión
+2023-05-17 17:47:31,924 INFO | Fin de conexión
+2023-05-17 17:47:31,924 INFO | Fin de conexión
+2023-05-17 17:47:31,926 INFO | 127.0.0.1 - - [17/May/2023 17:47:31] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:50:01,859 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:50:01,859 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:50:09,200 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:50:09,202 INFO | Inicio de conexión
+2023-05-17 17:50:09,852 INFO | Inicio de conexión
+2023-05-17 17:50:10,529 INFO | Fin de conexión
+2023-05-17 17:50:10,532 CRITICAL | 'list' object has no attribute 'values'
+2023-05-17 17:50:10,533 INFO | Fin de conexión
+2023-05-17 17:50:10,535 INFO | 127.0.0.1 - - [17/May/2023 17:50:10] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:51:31,715 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:51:31,715 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:51:39,058 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:51:39,059 INFO | Inicio de conexión
+2023-05-17 17:51:39,684 INFO | Inicio de conexión
+2023-05-17 17:51:40,369 INFO | Fin de conexión
+2023-05-17 17:51:40,373 CRITICAL | 'list' object has no attribute 'values'
+2023-05-17 17:51:40,373 INFO | Fin de conexión
+2023-05-17 17:51:40,376 INFO | 127.0.0.1 - - [17/May/2023 17:51:40] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:54:20,119 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 17:54:20,120 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 17:54:22,978 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:54:22,979 INFO | Inicio de conexión
+2023-05-17 17:54:23,632 INFO | Inicio de conexión
+2023-05-17 17:54:24,319 INFO | Fin de conexión
+2023-05-17 17:54:24,571 INFO | Fin de conexión
+2023-05-17 17:54:24,573 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 2000 milisegundos
+2023-05-17 17:54:24,573 INFO | 127.0.0.1 - - [17/May/2023 17:54:24] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 17:58:14,586 INFO | Funcion: 'save_item' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 17:58:14,590 INFO | Inicio de conexión
+2023-05-17 17:58:15,651 INFO | Fin de conexión
+2023-05-17 17:58:15,653 INFO | Funcion: 'save_item' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-17 17:58:15,656 INFO | 127.0.0.1 - - [17/May/2023 17:58:15] "POST /rest/inventory-ms/v1.0/item HTTP/1.1" 200 -
+2023-05-17 18:07:27,180 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:07:27,180 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:07:35,125 INFO | 127.0.0.1 - - [17/May/2023 18:07:35] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:07:35,226 INFO | 127.0.0.1 - - [17/May/2023 18:07:35] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:07:35,381 INFO | 127.0.0.1 - - [17/May/2023 18:07:35] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:07:35,442 INFO | 127.0.0.1 - - [17/May/2023 18:07:35] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:07:35,818 INFO | 127.0.0.1 - - [17/May/2023 18:07:35] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:07:35,821 INFO | 127.0.0.1 - - [17/May/2023 18:07:35] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:07:52,373 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:07:52,375 INFO | Inicio de conexión
+2023-05-17 18:07:53,045 INFO | Inicio de conexión
+2023-05-17 18:07:53,726 INFO | Fin de conexión
+2023-05-17 18:07:53,974 INFO | Fin de conexión
+2023-05-17 18:07:53,979 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 2000 milisegundos
+2023-05-17 18:07:53,981 INFO | 127.0.0.1 - - [17/May/2023 18:07:53] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:08:22,077 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:08:22,080 INFO | Inicio de conexión
+2023-05-17 18:08:22,626 INFO | Inicio de conexión
+2023-05-17 18:08:23,313 INFO | Fin de conexión
+2023-05-17 18:08:23,559 INFO | Fin de conexión
+2023-05-17 18:08:23,561 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-17 18:08:23,562 INFO | 127.0.0.1 - - [17/May/2023 18:08:23] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:09:32,644 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:09:32,645 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:10:11,341 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:10:11,344 INFO | Inicio de conexión
+2023-05-17 18:10:12,103 INFO | Inicio de conexión
+2023-05-17 18:10:12,785 INFO | Fin de conexión
+2023-05-17 18:10:13,037 INFO | Fin de conexión
+2023-05-17 18:10:13,039 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 2000 milisegundos
+2023-05-17 18:10:13,040 INFO | 127.0.0.1 - - [17/May/2023 18:10:13] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=3&itemCantidad=10 HTTP/1.1" 200 -
+2023-05-17 18:10:35,269 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:10:35,271 INFO | Inicio de conexión
+2023-05-17 18:10:35,804 INFO | Inicio de conexión
+2023-05-17 18:10:36,480 INFO | Fin de conexión
+2023-05-17 18:10:36,729 INFO | Fin de conexión
+2023-05-17 18:10:36,731 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-17 18:10:36,733 INFO | 127.0.0.1 - - [17/May/2023 18:10:36] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=3&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:19:56,202 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:19:56,202 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:20:00,846 INFO | 127.0.0.1 - - [17/May/2023 18:20:00] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:20:00,882 INFO | 127.0.0.1 - - [17/May/2023 18:20:00] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:20:01,090 INFO | 127.0.0.1 - - [17/May/2023 18:20:01] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:20:01,178 INFO | 127.0.0.1 - - [17/May/2023 18:20:01] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:20:01,575 INFO | 127.0.0.1 - - [17/May/2023 18:20:01] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:20:01,578 INFO | 127.0.0.1 - - [17/May/2023 18:20:01] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:20:18,512 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:20:18,515 INFO | Inicio de conexión
+2023-05-17 18:20:19,197 INFO | Inicio de conexión
+2023-05-17 18:20:19,912 INFO | Fin de conexión
+2023-05-17 18:20:19,913 INFO | Fin de conexión
+2023-05-17 18:20:19,917 INFO | 127.0.0.1 - - [17/May/2023 18:20:19] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=4&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:21:53,489 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:21:53,489 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:21:56,366 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:21:56,367 INFO | Inicio de conexión
+2023-05-17 18:21:56,687 INFO | 127.0.0.1 - - [17/May/2023 18:21:56] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=4&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:22:11,835 INFO | 127.0.0.1 - - [17/May/2023 18:22:11] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:22:12,326 INFO | 127.0.0.1 - - [17/May/2023 18:22:12] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:22:12,359 INFO | 127.0.0.1 - - [17/May/2023 18:22:12] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:22:12,359 INFO | 127.0.0.1 - - [17/May/2023 18:22:12] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:22:12,744 INFO | 127.0.0.1 - - [17/May/2023 18:22:12] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:22:12,748 INFO | 127.0.0.1 - - [17/May/2023 18:22:12] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:22:18,906 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:22:18,908 INFO | Inicio de conexión
+2023-05-17 18:22:18,932 INFO | 127.0.0.1 - - [17/May/2023 18:22:18] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=4&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:25:35,831 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:25:35,831 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:25:42,534 INFO | 127.0.0.1 - - [17/May/2023 18:25:42] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:25:42,574 INFO | 127.0.0.1 - - [17/May/2023 18:25:42] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:25:42,796 INFO | 127.0.0.1 - - [17/May/2023 18:25:42] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:25:42,857 INFO | 127.0.0.1 - - [17/May/2023 18:25:42] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:25:43,220 INFO | 127.0.0.1 - - [17/May/2023 18:25:43] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:25:43,222 INFO | 127.0.0.1 - - [17/May/2023 18:25:43] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:25:49,501 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:25:49,503 INFO | Inicio de conexión
+2023-05-17 18:25:50,129 INFO | Inicio de conexión
+2023-05-17 18:25:50,812 INFO | Fin de conexión
+2023-05-17 18:25:50,814 INFO | Fin de conexión
+2023-05-17 18:25:50,818 INFO | 127.0.0.1 - - [17/May/2023 18:25:50] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=4&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:26:14,349 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:26:14,349 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:26:18,246 INFO | 127.0.0.1 - - [17/May/2023 18:26:18] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:26:18,278 INFO | 127.0.0.1 - - [17/May/2023 18:26:18] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:26:18,504 INFO | 127.0.0.1 - - [17/May/2023 18:26:18] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:26:18,567 INFO | 127.0.0.1 - - [17/May/2023 18:26:18] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:26:18,919 INFO | 127.0.0.1 - - [17/May/2023 18:26:18] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:26:18,921 INFO | 127.0.0.1 - - [17/May/2023 18:26:18] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:26:23,575 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:26:23,576 INFO | Inicio de conexión
+2023-05-17 18:26:24,215 INFO | Inicio de conexión
+2023-05-17 18:26:24,892 INFO | Fin de conexión
+2023-05-17 18:26:24,894 INFO | Fin de conexión
+2023-05-17 18:26:24,897 INFO | 127.0.0.1 - - [17/May/2023 18:26:24] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=4&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:27:06,230 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:27:06,231 INFO | Inicio de conexión
+2023-05-17 18:27:07,025 INFO | Fin de conexión
+2023-05-17 18:27:07,026 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-17 18:27:07,028 INFO | 127.0.0.1 - - [17/May/2023 18:27:07] "GET /rest/inventory-ms/v1.0/item/4 HTTP/1.1" 200 -
+2023-05-17 18:28:04,393 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:28:04,394 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:28:10,154 INFO | 127.0.0.1 - - [17/May/2023 18:28:10] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:28:10,189 INFO | 127.0.0.1 - - [17/May/2023 18:28:10] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:28:10,417 INFO | 127.0.0.1 - - [17/May/2023 18:28:10] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:28:10,481 INFO | 127.0.0.1 - - [17/May/2023 18:28:10] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:28:10,837 INFO | 127.0.0.1 - - [17/May/2023 18:28:10] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:28:10,839 INFO | 127.0.0.1 - - [17/May/2023 18:28:10] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:28:15,772 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:28:15,774 INFO | Inicio de conexión
+2023-05-17 18:28:16,384 INFO | Inicio de conexión
+2023-05-17 18:28:17,062 INFO | Fin de conexión
+2023-05-17 18:28:17,064 INFO | Fin de conexión
+2023-05-17 18:28:17,067 INFO | 127.0.0.1 - - [17/May/2023 18:28:17] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=4&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:28:23,379 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:28:23,382 INFO | Inicio de conexión
+2023-05-17 18:28:23,918 INFO | Inicio de conexión
+2023-05-17 18:28:24,601 INFO | Fin de conexión
+2023-05-17 18:28:24,603 INFO | Fin de conexión
+2023-05-17 18:28:24,605 INFO | 127.0.0.1 - - [17/May/2023 18:28:24] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:38:06,828 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:38:06,828 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:38:14,250 INFO | 127.0.0.1 - - [17/May/2023 18:38:14] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:38:14,283 INFO | 127.0.0.1 - - [17/May/2023 18:38:14] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:38:14,511 INFO | 127.0.0.1 - - [17/May/2023 18:38:14] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:38:14,571 INFO | 127.0.0.1 - - [17/May/2023 18:38:14] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:38:14,947 INFO | 127.0.0.1 - - [17/May/2023 18:38:14] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:38:14,951 INFO | 127.0.0.1 - - [17/May/2023 18:38:14] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:38:19,000 INFO | 127.0.0.1 - - [17/May/2023 18:38:19] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:38:19,308 INFO | 127.0.0.1 - - [17/May/2023 18:38:19] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:38:19,321 INFO | 127.0.0.1 - - [17/May/2023 18:38:19] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:38:19,322 INFO | 127.0.0.1 - - [17/May/2023 18:38:19] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:38:19,698 INFO | 127.0.0.1 - - [17/May/2023 18:38:19] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:38:19,702 INFO | 127.0.0.1 - - [17/May/2023 18:38:19] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:38:28,051 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:38:28,053 INFO | Inicio de conexión
+2023-05-17 18:38:28,725 INFO | Inicio de conexión
+2023-05-17 18:38:29,415 INFO | Fin de conexión
+2023-05-17 18:38:29,417 INFO | Fin de conexión
+2023-05-17 18:38:29,419 INFO | 127.0.0.1 - - [17/May/2023 18:38:29] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:38:45,655 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:38:45,655 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:38:48,772 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:38:48,773 INFO | Inicio de conexión
+2023-05-17 18:38:49,288 INFO | Inicio de conexión
+2023-05-17 18:38:49,973 INFO | Fin de conexión
+2023-05-17 18:38:50,219 INFO | Fin de conexión
+2023-05-17 18:38:50,222 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-17 18:38:50,223 INFO | 127.0.0.1 - - [17/May/2023 18:38:50] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=2&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:38:56,724 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:38:56,726 INFO | Inicio de conexión
+2023-05-17 18:38:57,252 INFO | Inicio de conexión
+2023-05-17 18:38:57,946 INFO | Fin de conexión
+2023-05-17 18:38:58,198 INFO | Fin de conexión
+2023-05-17 18:38:58,200 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-17 18:38:58,202 INFO | 127.0.0.1 - - [17/May/2023 18:38:58] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=4&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:42:36,077 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:42:36,078 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:42:45,628 INFO | 127.0.0.1 - - [17/May/2023 18:42:45] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:42:45,723 INFO | 127.0.0.1 - - [17/May/2023 18:42:45] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:42:45,867 INFO | 127.0.0.1 - - [17/May/2023 18:42:45] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:42:45,947 INFO | 127.0.0.1 - - [17/May/2023 18:42:45] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:42:46,289 INFO | 127.0.0.1 - - [17/May/2023 18:42:46] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:42:46,292 INFO | 127.0.0.1 - - [17/May/2023 18:42:46] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:43:13,229 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:43:13,232 INFO | Inicio de conexión
+2023-05-17 18:43:13,890 INFO | Inicio de conexión
+2023-05-17 18:43:14,576 INFO | Fin de conexión
+2023-05-17 18:43:14,824 INFO | Fin de conexión
+2023-05-17 18:43:14,828 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 2000 milisegundos
+2023-05-17 18:43:14,829 INFO | 127.0.0.1 - - [17/May/2023 18:43:14] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=4&itemCantidad=6 HTTP/1.1" 200 -
+2023-05-17 18:43:52,641 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:43:52,644 INFO | Inicio de conexión
+2023-05-17 18:43:53,264 INFO | Inicio de conexión
+2023-05-17 18:43:53,959 INFO | Fin de conexión
+2023-05-17 18:43:53,960 INFO | Fin de conexión
+2023-05-17 18:43:53,963 INFO | 127.0.0.1 - - [17/May/2023 18:43:53] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=3&itemCantidad=-5 HTTP/1.1" 200 -
+2023-05-17 18:44:02,856 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:44:02,858 INFO | Inicio de conexión
+2023-05-17 18:44:03,396 INFO | Inicio de conexión
+2023-05-17 18:44:04,086 INFO | Fin de conexión
+2023-05-17 18:44:04,335 INFO | Fin de conexión
+2023-05-17 18:44:04,337 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-17 18:44:04,339 INFO | 127.0.0.1 - - [17/May/2023 18:44:04] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=3&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 18:44:19,378 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:44:19,381 INFO | Inicio de conexión
+2023-05-17 18:44:19,905 INFO | Inicio de conexión
+2023-05-17 18:44:20,598 INFO | Fin de conexión
+2023-05-17 18:44:20,600 INFO | Fin de conexión
+2023-05-17 18:44:20,602 INFO | 127.0.0.1 - - [17/May/2023 18:44:20] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=3&itemCantidad=-5 HTTP/1.1" 200 -
+2023-05-17 18:45:48,516 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:45:48,516 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:47:02,859 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:47:02,860 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:47:51,507 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:47:51,508 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:47:55,422 INFO | 127.0.0.1 - - [17/May/2023 18:47:55] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:47:55,458 INFO | 127.0.0.1 - - [17/May/2023 18:47:55] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:47:55,684 INFO | 127.0.0.1 - - [17/May/2023 18:47:55] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:47:55,746 INFO | 127.0.0.1 - - [17/May/2023 18:47:55] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:47:56,192 INFO | 127.0.0.1 - - [17/May/2023 18:47:56] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:47:56,193 INFO | 127.0.0.1 - - [17/May/2023 18:47:56] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:48:18,285 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:48:18,288 INFO | Inicio de conexión
+2023-05-17 18:48:19,054 INFO | Inicio de conexión
+2023-05-17 18:48:19,850 INFO | Fin de conexión
+2023-05-17 18:48:20,125 INFO | Fin de conexión
+2023-05-17 18:48:20,129 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 2000 milisegundos
+2023-05-17 18:48:20,130 INFO | 127.0.0.1 - - [17/May/2023 18:48:20] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=5&itemCantidad=10 HTTP/1.1" 200 -
+2023-05-17 18:49:21,244 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:49:21,244 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:49:26,105 INFO | 127.0.0.1 - - [17/May/2023 18:49:26] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:49:26,136 INFO | 127.0.0.1 - - [17/May/2023 18:49:26] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:49:26,364 INFO | 127.0.0.1 - - [17/May/2023 18:49:26] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:49:26,426 INFO | 127.0.0.1 - - [17/May/2023 18:49:26] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:49:26,780 INFO | 127.0.0.1 - - [17/May/2023 18:49:26] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:49:26,784 INFO | 127.0.0.1 - - [17/May/2023 18:49:26] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:50:05,989 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:50:05,992 INFO | Inicio de conexión
+2023-05-17 18:50:06,627 INFO | Inicio de conexión
+2023-05-17 18:50:07,307 INFO | Fin de conexión
+2023-05-17 18:50:07,310 INFO | Fin de conexión
+2023-05-17 18:50:07,315 INFO | 127.0.0.1 - - [17/May/2023 18:50:07] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 18:50:35,143 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:50:35,144 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:50:39,037 INFO | 127.0.0.1 - - [17/May/2023 18:50:39] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 18:50:39,073 INFO | 127.0.0.1 - - [17/May/2023 18:50:39] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 18:50:39,291 INFO | 127.0.0.1 - - [17/May/2023 18:50:39] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 18:50:39,353 INFO | 127.0.0.1 - - [17/May/2023 18:50:39] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 18:50:39,721 INFO | 127.0.0.1 - - [17/May/2023 18:50:39] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 18:50:39,722 INFO | 127.0.0.1 - - [17/May/2023 18:50:39] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 18:50:52,976 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:50:52,980 INFO | Inicio de conexión
+2023-05-17 18:50:53,606 INFO | Inicio de conexión
+2023-05-17 18:50:54,285 INFO | Fin de conexión
+2023-05-17 18:50:54,287 INFO | Fin de conexión
+2023-05-17 18:50:54,292 INFO | 127.0.0.1 - - [17/May/2023 18:50:54] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 18:55:34,968 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:55:34,968 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:55:40,403 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:55:40,404 INFO | Inicio de conexión
+2023-05-17 18:55:41,058 INFO | Inicio de conexión
+2023-05-17 18:55:41,728 INFO | Fin de conexión
+2023-05-17 18:55:41,729 INFO | Fin de conexión
+2023-05-17 18:55:41,731 INFO | 127.0.0.1 - - [17/May/2023 18:55:41] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 18:56:11,836 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:56:11,836 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:56:15,163 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:56:15,164 INFO | Inicio de conexión
+2023-05-17 18:56:15,831 INFO | Inicio de conexión
+2023-05-17 18:56:16,497 INFO | Fin de conexión
+2023-05-17 18:56:16,499 INFO | Fin de conexión
+2023-05-17 18:56:16,503 INFO | 127.0.0.1 - - [17/May/2023 18:56:16] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 18:57:24,305 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:57:24,305 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:57:33,034 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:57:33,035 INFO | Inicio de conexión
+2023-05-17 18:57:33,616 INFO | Inicio de conexión
+2023-05-17 18:57:34,294 INFO | Fin de conexión
+2023-05-17 18:57:34,296 INFO | Fin de conexión
+2023-05-17 18:57:34,299 INFO | 127.0.0.1 - - [17/May/2023 18:57:34] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 18:57:50,891 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:57:50,892 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:57:54,034 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:57:54,035 INFO | Inicio de conexión
+2023-05-17 18:57:54,538 INFO | Inicio de conexión
+2023-05-17 18:57:55,213 INFO | Fin de conexión
+2023-05-17 18:57:55,214 INFO | Fin de conexión
+2023-05-17 18:57:55,217 INFO | 127.0.0.1 - - [17/May/2023 18:57:55] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 18:58:28,181 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:58:28,181 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 18:58:32,384 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 18:58:32,385 INFO | Inicio de conexión
+2023-05-17 18:58:33,002 INFO | Inicio de conexión
+2023-05-17 18:58:33,693 INFO | Fin de conexión
+2023-05-17 18:58:33,695 INFO | Fin de conexión
+2023-05-17 18:58:33,699 INFO | 127.0.0.1 - - [17/May/2023 18:58:33] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 18:59:59,096 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 18:59:59,097 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 19:00:03,010 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 19:00:03,012 INFO | Inicio de conexión
+2023-05-17 19:00:03,675 INFO | Inicio de conexión
+2023-05-17 19:00:04,340 INFO | Fin de conexión
+2023-05-17 19:00:04,343 INFO | Fin de conexión
+2023-05-17 19:00:04,345 INFO | 127.0.0.1 - - [17/May/2023 19:00:04] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 19:04:37,537 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 19:04:37,537 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 19:04:45,448 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 19:04:45,449 INFO | Inicio de conexión
+2023-05-17 19:04:46,077 INFO | Inicio de conexión
+2023-05-17 19:04:46,741 INFO | Fin de conexión
+2023-05-17 19:04:46,742 INFO | Fin de conexión
+2023-05-17 19:04:46,743 INFO | 127.0.0.1 - - [17/May/2023 19:04:46] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 19:45:12,745 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 19:45:12,745 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 19:45:20,679 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 19:45:20,682 INFO | Inicio de conexión
+2023-05-17 19:45:21,313 INFO | Inicio de conexión
+2023-05-17 19:45:22,052 INFO | Fin de conexión
+2023-05-17 19:45:22,055 INFO | Fin de conexión
+2023-05-17 19:45:22,057 INFO | 127.0.0.1 - - [17/May/2023 19:45:22] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 19:46:16,804 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 19:46:16,804 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 19:46:20,287 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 19:46:20,289 INFO | Inicio de conexión
+2023-05-17 19:46:20,939 INFO | Inicio de conexión
+2023-05-17 19:46:21,655 INFO | Fin de conexión
+2023-05-17 19:46:21,656 INFO | Fin de conexión
+2023-05-17 19:46:21,658 INFO | 127.0.0.1 - - [17/May/2023 19:46:21] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 19:46:34,741 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 19:46:34,741 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 19:46:41,476 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 19:46:41,477 INFO | Inicio de conexión
+2023-05-17 19:46:42,030 INFO | Inicio de conexión
+2023-05-17 19:46:42,747 INFO | Fin de conexión
+2023-05-17 19:46:42,749 INFO | Fin de conexión
+2023-05-17 19:46:42,751 INFO | 127.0.0.1 - - [17/May/2023 19:46:42] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 19:47:03,484 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 19:47:03,484 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 19:47:06,255 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 19:47:06,256 INFO | Inicio de conexión
+2023-05-17 19:47:06,887 INFO | Inicio de conexión
+2023-05-17 19:47:07,617 INFO | Fin de conexión
+2023-05-17 19:47:07,619 INFO | Fin de conexión
+2023-05-17 19:47:07,621 INFO | 127.0.0.1 - - [17/May/2023 19:47:07] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=7&itemCantidad=-1 HTTP/1.1" 200 -
+2023-05-17 19:47:45,128 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 19:47:45,131 INFO | Inicio de conexión
+2023-05-17 19:47:45,790 INFO | Inicio de conexión
+2023-05-17 19:47:46,510 INFO | Fin de conexión
+2023-05-17 19:47:46,779 INFO | Fin de conexión
+2023-05-17 19:47:46,781 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 2000 milisegundos
+2023-05-17 19:47:46,783 INFO | 127.0.0.1 - - [17/May/2023 19:47:46] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=5&itemCantidad=5 HTTP/1.1" 200 -
+2023-05-17 21:15:07,965 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-17 21:15:07,965 INFO | [33mPress CTRL+C to quit[0m
+2023-05-17 21:15:13,945 INFO | 127.0.0.1 - - [17/May/2023 21:15:13] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-17 21:15:13,980 INFO | 127.0.0.1 - - [17/May/2023 21:15:13] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-17 21:15:14,203 INFO | 127.0.0.1 - - [17/May/2023 21:15:14] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-17 21:15:14,265 INFO | 127.0.0.1 - - [17/May/2023 21:15:14] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-17 21:15:14,617 INFO | 127.0.0.1 - - [17/May/2023 21:15:14] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-17 21:15:14,619 INFO | 127.0.0.1 - - [17/May/2023 21:15:14] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-17 21:15:24,658 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-17 21:15:24,661 INFO | Inicio de conexión
+2023-05-17 21:15:25,585 INFO | Inicio de conexión
+2023-05-17 21:15:26,303 INFO | Fin de conexión
+2023-05-17 21:15:26,561 INFO | Fin de conexión
+2023-05-17 21:15:26,564 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 2000 milisegundos
+2023-05-17 21:15:26,566 INFO | 127.0.0.1 - - [17/May/2023 21:15:26] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=10&itemCantidad=4 HTTP/1.1" 200 -

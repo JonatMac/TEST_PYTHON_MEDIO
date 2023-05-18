@@ -1,0 +1,630 @@
+2023-05-16 00:17:41,845 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 00:17:41,846 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 00:17:49,427 INFO | 127.0.0.1 - - [16/May/2023 00:17:49] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:17:49,545 INFO | 127.0.0.1 - - [16/May/2023 00:17:49] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:17:49,683 INFO | 127.0.0.1 - - [16/May/2023 00:17:49] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:17:49,757 INFO | 127.0.0.1 - - [16/May/2023 00:17:49] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:17:50,231 INFO | 127.0.0.1 - - [16/May/2023 00:17:50] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:17:50,235 INFO | 127.0.0.1 - - [16/May/2023 00:17:50] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 00:17:58,291 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:17:58,295 INFO | Inicio de conexión
+2023-05-16 00:17:59,138 INFO | Fin de conexión
+2023-05-16 00:17:59,141 INFO | 127.0.0.1 - - [16/May/2023 00:17:59] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=lap HTTP/1.1" 200 -
+2023-05-16 00:19:17,084 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 00:19:17,084 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 00:19:24,224 INFO | 127.0.0.1 - - [16/May/2023 00:19:24] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:19:24,300 INFO | 127.0.0.1 - - [16/May/2023 00:19:24] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:19:24,483 INFO | 127.0.0.1 - - [16/May/2023 00:19:24] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:19:24,560 INFO | 127.0.0.1 - - [16/May/2023 00:19:24] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:19:24,977 INFO | 127.0.0.1 - - [16/May/2023 00:19:24] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:19:24,982 INFO | 127.0.0.1 - - [16/May/2023 00:19:24] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 00:19:31,488 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:19:31,492 INFO | Inicio de conexión
+2023-05-16 00:19:32,381 INFO | Fin de conexión
+2023-05-16 00:19:32,384 INFO | 127.0.0.1 - - [16/May/2023 00:19:32] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=lap HTTP/1.1" 200 -
+2023-05-16 00:20:56,787 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 00:20:56,788 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 00:21:00,956 INFO | 127.0.0.1 - - [16/May/2023 00:21:00] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:21:01,029 INFO | 127.0.0.1 - - [16/May/2023 00:21:01] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:21:01,211 INFO | 127.0.0.1 - - [16/May/2023 00:21:01] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:21:01,304 INFO | 127.0.0.1 - - [16/May/2023 00:21:01] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:21:01,675 INFO | 127.0.0.1 - - [16/May/2023 00:21:01] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:21:01,709 INFO | 127.0.0.1 - - [16/May/2023 00:21:01] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 00:21:09,709 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:21:09,713 INFO | Inicio de conexión
+2023-05-16 00:21:10,579 INFO | Fin de conexión
+2023-05-16 00:21:10,582 INFO | 127.0.0.1 - - [16/May/2023 00:21:10] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=lap HTTP/1.1" 200 -
+2023-05-16 00:21:18,190 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:21:18,194 INFO | Inicio de conexión
+2023-05-16 00:21:18,944 INFO | Fin de conexión
+2023-05-16 00:21:18,947 INFO | 127.0.0.1 - - [16/May/2023 00:21:18] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=2&name=lap HTTP/1.1" 200 -
+2023-05-16 00:22:39,115 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 00:22:39,115 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 00:22:45,808 INFO | 127.0.0.1 - - [16/May/2023 00:22:45] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:22:45,880 INFO | 127.0.0.1 - - [16/May/2023 00:22:45] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:22:46,057 INFO | 127.0.0.1 - - [16/May/2023 00:22:46] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:22:46,150 INFO | 127.0.0.1 - - [16/May/2023 00:22:46] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:22:46,523 INFO | 127.0.0.1 - - [16/May/2023 00:22:46] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:22:46,528 INFO | 127.0.0.1 - - [16/May/2023 00:22:46] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 00:22:53,011 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:22:53,014 INFO | Inicio de conexión
+2023-05-16 00:22:53,886 INFO | Fin de conexión
+2023-05-16 00:22:53,890 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-16 00:22:53,890 INFO | 127.0.0.1 - - [16/May/2023 00:22:53] "GET /rest/inventory-ms/v1.0/item/5 HTTP/1.1" 200 -
+2023-05-16 00:23:04,947 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:23:04,950 INFO | Inicio de conexión
+2023-05-16 00:23:05,714 INFO | Fin de conexión
+2023-05-16 00:23:05,716 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-16 00:23:05,716 INFO | 127.0.0.1 - - [16/May/2023 00:23:05] "GET /rest/inventory-ms/v1.0/item/6 HTTP/1.1" 200 -
+2023-05-16 00:29:40,284 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 00:29:40,285 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 00:29:55,342 INFO | 127.0.0.1 - - [16/May/2023 00:29:55] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:29:55,468 INFO | 127.0.0.1 - - [16/May/2023 00:29:55] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:29:55,598 INFO | 127.0.0.1 - - [16/May/2023 00:29:55] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:29:55,694 INFO | 127.0.0.1 - - [16/May/2023 00:29:55] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:29:56,083 INFO | 127.0.0.1 - - [16/May/2023 00:29:56] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:29:56,092 INFO | 127.0.0.1 - - [16/May/2023 00:29:56] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 00:30:07,013 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:30:07,015 INFO | Inicio de conexión
+2023-05-16 00:30:07,993 INFO | Fin de conexión
+2023-05-16 00:30:07,998 INFO | 127.0.0.1 - - [16/May/2023 00:30:07] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=lap HTTP/1.1" 200 -
+2023-05-16 00:30:16,268 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:30:16,270 INFO | Inicio de conexión
+2023-05-16 00:30:17,016 INFO | Fin de conexión
+2023-05-16 00:30:17,019 INFO | 127.0.0.1 - - [16/May/2023 00:30:17] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=tab HTTP/1.1" 200 -
+2023-05-16 00:30:32,529 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:30:32,531 INFO | Inicio de conexión
+2023-05-16 00:30:33,285 INFO | Fin de conexión
+2023-05-16 00:30:33,287 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-16 00:30:33,289 INFO | 127.0.0.1 - - [16/May/2023 00:30:33] "GET /rest/inventory-ms/v1.0/item/3 HTTP/1.1" 200 -
+2023-05-16 00:30:49,961 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:30:49,964 INFO | Inicio de conexión
+2023-05-16 00:30:50,842 INFO | Fin de conexión
+2023-05-16 00:30:50,844 INFO | 127.0.0.1 - - [16/May/2023 00:30:50] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=car HTTP/1.1" 200 -
+2023-05-16 00:30:57,343 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:30:57,345 INFO | Inicio de conexión
+2023-05-16 00:30:58,096 INFO | Fin de conexión
+2023-05-16 00:30:58,098 INFO | 127.0.0.1 - - [16/May/2023 00:30:58] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=carga HTTP/1.1" 200 -
+2023-05-16 00:31:55,174 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 00:31:55,175 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 00:31:58,748 INFO | 127.0.0.1 - - [16/May/2023 00:31:58] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:31:58,816 INFO | 127.0.0.1 - - [16/May/2023 00:31:58] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:31:58,998 INFO | 127.0.0.1 - - [16/May/2023 00:31:58] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:31:59,088 INFO | 127.0.0.1 - - [16/May/2023 00:31:59] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:31:59,704 INFO | 127.0.0.1 - - [16/May/2023 00:31:59] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:31:59,720 INFO | 127.0.0.1 - - [16/May/2023 00:31:59] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 00:32:05,168 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:32:05,171 INFO | Inicio de conexión
+2023-05-16 00:32:06,012 INFO | Fin de conexión
+2023-05-16 00:32:06,016 INFO | 127.0.0.1 - - [16/May/2023 00:32:06] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=carga HTTP/1.1" 200 -
+2023-05-16 00:32:40,996 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 00:32:40,996 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 00:32:52,406 INFO | 127.0.0.1 - - [16/May/2023 00:32:52] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:32:52,487 INFO | 127.0.0.1 - - [16/May/2023 00:32:52] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:32:52,660 INFO | 127.0.0.1 - - [16/May/2023 00:32:52] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:32:52,775 INFO | 127.0.0.1 - - [16/May/2023 00:32:52] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:32:53,194 INFO | 127.0.0.1 - - [16/May/2023 00:32:53] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:32:53,195 INFO | 127.0.0.1 - - [16/May/2023 00:32:53] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 00:33:00,382 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:33:00,385 INFO | Inicio de conexión
+2023-05-16 00:33:01,233 INFO | Fin de conexión
+2023-05-16 00:33:01,238 INFO | 127.0.0.1 - - [16/May/2023 00:33:01] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=carga HTTP/1.1" 200 -
+2023-05-16 00:37:17,239 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 00:37:17,240 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 00:37:39,199 INFO | 127.0.0.1 - - [16/May/2023 00:37:39] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:37:39,305 INFO | 127.0.0.1 - - [16/May/2023 00:37:39] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:37:39,436 INFO | 127.0.0.1 - - [16/May/2023 00:37:39] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:37:39,529 INFO | 127.0.0.1 - - [16/May/2023 00:37:39] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:37:39,872 INFO | 127.0.0.1 - - [16/May/2023 00:37:39] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:37:39,876 INFO | 127.0.0.1 - - [16/May/2023 00:37:39] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 00:37:48,373 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:37:48,375 INFO | Inicio de conexión
+2023-05-16 00:37:49,252 INFO | Fin de conexión
+2023-05-16 00:37:49,256 INFO | 127.0.0.1 - - [16/May/2023 00:37:49] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=carga HTTP/1.1" 200 -
+2023-05-16 00:39:08,128 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 00:39:08,128 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 00:39:20,986 INFO | 127.0.0.1 - - [16/May/2023 00:39:20] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:39:21,023 INFO | 127.0.0.1 - - [16/May/2023 00:39:21] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:39:21,250 INFO | 127.0.0.1 - - [16/May/2023 00:39:21] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:39:21,312 INFO | 127.0.0.1 - - [16/May/2023 00:39:21] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:39:21,642 INFO | 127.0.0.1 - - [16/May/2023 00:39:21] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:39:21,645 INFO | 127.0.0.1 - - [16/May/2023 00:39:21] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 00:39:27,661 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 00:39:27,662 INFO | Inicio de conexión
+2023-05-16 00:39:28,555 INFO | Fin de conexión
+2023-05-16 00:39:28,557 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-16 00:39:28,558 INFO | 127.0.0.1 - - [16/May/2023 00:39:28] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=Carg HTTP/1.1" 200 -
+2023-05-16 00:41:27,765 INFO | 127.0.0.1 - - [16/May/2023 00:41:27] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:41:27,777 INFO | 127.0.0.1 - - [16/May/2023 00:41:27] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:41:28,016 INFO | 127.0.0.1 - - [16/May/2023 00:41:28] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:41:28,095 INFO | 127.0.0.1 - - [16/May/2023 00:41:28] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:41:28,445 INFO | 127.0.0.1 - - [16/May/2023 00:41:28] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:41:28,446 INFO | 127.0.0.1 - - [16/May/2023 00:41:28] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 00:41:34,687 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 00:41:34,688 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 00:41:37,862 INFO | 127.0.0.1 - - [16/May/2023 00:41:37] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:41:37,892 INFO | 127.0.0.1 - - [16/May/2023 00:41:37] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:41:38,123 INFO | 127.0.0.1 - - [16/May/2023 00:41:38] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:41:38,188 INFO | 127.0.0.1 - - [16/May/2023 00:41:38] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:41:38,520 INFO | 127.0.0.1 - - [16/May/2023 00:41:38] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:41:38,522 INFO | 127.0.0.1 - - [16/May/2023 00:41:38] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 00:42:35,440 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 00:42:35,441 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 00:42:39,394 INFO | 127.0.0.1 - - [16/May/2023 00:42:39] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 00:42:39,421 INFO | 127.0.0.1 - - [16/May/2023 00:42:39] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 00:42:39,653 INFO | 127.0.0.1 - - [16/May/2023 00:42:39] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 00:42:39,713 INFO | 127.0.0.1 - - [16/May/2023 00:42:39] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 00:42:40,046 INFO | 127.0.0.1 - - [16/May/2023 00:42:40] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 00:42:40,048 INFO | 127.0.0.1 - - [16/May/2023 00:42:40] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:18:13,494 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:18:13,495 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:18:19,013 INFO | 127.0.0.1 - - [16/May/2023 01:18:19] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:18:19,049 INFO | 127.0.0.1 - - [16/May/2023 01:18:19] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:18:19,262 INFO | 127.0.0.1 - - [16/May/2023 01:18:19] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:18:19,332 INFO | 127.0.0.1 - - [16/May/2023 01:18:19] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:18:19,886 INFO | 127.0.0.1 - - [16/May/2023 01:18:19] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:18:19,889 INFO | 127.0.0.1 - - [16/May/2023 01:18:19] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:18:43,922 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:18:43,923 INFO | 127.0.0.1 - - [16/May/2023 01:18:43] "[35m[1mPUT /rest/inventory-ms/v1.0/item/buy/110 HTTP/1.1[0m" 204 -
+2023-05-16 01:18:56,889 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:18:56,890 INFO | 127.0.0.1 - - [16/May/2023 01:18:56] "[35m[1mPUT /rest/inventory-ms/v1.0/item/buy/110 HTTP/1.1[0m" 204 -
+2023-05-16 01:19:05,244 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:19:05,244 INFO | 127.0.0.1 - - [16/May/2023 01:19:05] "[35m[1mPUT /rest/inventory-ms/v1.0/item/buy/110 HTTP/1.1[0m" 204 -
+2023-05-16 01:19:16,388 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:19:16,389 INFO | 127.0.0.1 - - [16/May/2023 01:19:16] "[35m[1mPUT /rest/inventory-ms/v1.0/item/buy/11 HTTP/1.1[0m" 204 -
+2023-05-16 01:19:25,943 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:19:25,944 INFO | 127.0.0.1 - - [16/May/2023 01:19:25] "[35m[1mPUT /rest/inventory-ms/v1.0/item/buy/11 HTTP/1.1[0m" 204 -
+2023-05-16 01:19:29,915 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:19:29,916 INFO | 127.0.0.1 - - [16/May/2023 01:19:29] "[35m[1mPUT /rest/inventory-ms/v1.0/item/buy/10 HTTP/1.1[0m" 204 -
+2023-05-16 01:27:42,059 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:27:42,059 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:27:46,797 INFO | 127.0.0.1 - - [16/May/2023 01:27:46] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:27:46,833 INFO | 127.0.0.1 - - [16/May/2023 01:27:46] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:27:47,054 INFO | 127.0.0.1 - - [16/May/2023 01:27:47] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:27:47,130 INFO | 127.0.0.1 - - [16/May/2023 01:27:47] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:27:47,651 INFO | 127.0.0.1 - - [16/May/2023 01:27:47] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:27:47,678 INFO | 127.0.0.1 - - [16/May/2023 01:27:47] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:27:59,421 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:27:59,422 INFO | 127.0.0.1 - - [16/May/2023 01:27:59] "[35m[1mGET /rest/inventory-ms/v1.0/item/buy/11 HTTP/1.1[0m" 204 -
+2023-05-16 01:28:30,905 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:28:30,906 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:28:34,081 INFO | 127.0.0.1 - - [16/May/2023 01:28:34] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:28:34,111 INFO | 127.0.0.1 - - [16/May/2023 01:28:34] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:28:34,342 INFO | 127.0.0.1 - - [16/May/2023 01:28:34] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:28:34,402 INFO | 127.0.0.1 - - [16/May/2023 01:28:34] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:28:34,799 INFO | 127.0.0.1 - - [16/May/2023 01:28:34] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:28:34,826 INFO | 127.0.0.1 - - [16/May/2023 01:28:34] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:28:41,433 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:28:41,434 INFO | 127.0.0.1 - - [16/May/2023 01:28:41] "[35m[1mGET /rest/inventory-ms/v1.0/item/buy/1/1 HTTP/1.1[0m" 204 -
+2023-05-16 01:30:39,643 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:30:39,643 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:30:43,768 INFO | 127.0.0.1 - - [16/May/2023 01:30:43] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:30:43,804 INFO | 127.0.0.1 - - [16/May/2023 01:30:43] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:30:44,029 INFO | 127.0.0.1 - - [16/May/2023 01:30:44] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:30:44,091 INFO | 127.0.0.1 - - [16/May/2023 01:30:44] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:30:44,444 INFO | 127.0.0.1 - - [16/May/2023 01:30:44] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:30:44,468 INFO | 127.0.0.1 - - [16/May/2023 01:30:44] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:30:53,392 INFO | 127.0.0.1 - - [16/May/2023 01:30:53] "[31m[1mGET /rest/inventory-ms/v1.0/Item/buy HTTP/1.1[0m" 400 -
+2023-05-16 01:31:27,279 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:31:27,279 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:32:06,605 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:32:06,605 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:32:53,759 INFO | 127.0.0.1 - - [16/May/2023 01:32:53] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:32:53,789 INFO | 127.0.0.1 - - [16/May/2023 01:32:53] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:32:54,017 INFO | 127.0.0.1 - - [16/May/2023 01:32:54] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:32:54,081 INFO | 127.0.0.1 - - [16/May/2023 01:32:54] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:32:54,446 INFO | 127.0.0.1 - - [16/May/2023 01:32:54] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:32:54,450 INFO | 127.0.0.1 - - [16/May/2023 01:32:54] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:32:58,412 INFO | 127.0.0.1 - - [16/May/2023 01:32:58] "[31m[1mGET /rest/inventory-ms/v1.0/Item/buy HTTP/1.1[0m" 400 -
+2023-05-16 01:33:30,295 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:33:30,297 INFO | Inicio de conexión
+2023-05-16 01:33:31,164 INFO | Fin de conexión
+2023-05-16 01:33:31,168 INFO | Funcion: 'item_get_all' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-16 01:33:31,169 INFO | 127.0.0.1 - - [16/May/2023 01:33:31] "GET /rest/inventory-ms/v1.0/Item/search?page=1&size=10&name=Car HTTP/1.1" 200 -
+2023-05-16 01:33:43,419 INFO | 127.0.0.1 - - [16/May/2023 01:33:43] "[31m[1mGET /rest/inventory-ms/v1.0/Item/buy HTTP/1.1[0m" 400 -
+2023-05-16 01:33:48,833 INFO | 127.0.0.1 - - [16/May/2023 01:33:48] "[31m[1mGET /rest/inventory-ms/v1.0/Item/buy HTTP/1.1[0m" 400 -
+2023-05-16 01:37:35,617 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:37:35,617 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:37:41,343 INFO | 127.0.0.1 - - [16/May/2023 01:37:41] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:37:41,381 INFO | 127.0.0.1 - - [16/May/2023 01:37:41] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:37:41,604 INFO | 127.0.0.1 - - [16/May/2023 01:37:41] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:37:41,663 INFO | 127.0.0.1 - - [16/May/2023 01:37:41] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:37:42,017 INFO | 127.0.0.1 - - [16/May/2023 01:37:42] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:37:42,039 INFO | 127.0.0.1 - - [16/May/2023 01:37:42] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:37:54,541 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:37:54,541 INFO | 127.0.0.1 - - [16/May/2023 01:37:54] "[35m[1mGET /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=1 HTTP/1.1[0m" 204 -
+2023-05-16 01:39:12,601 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:39:12,601 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:39:16,962 INFO | 127.0.0.1 - - [16/May/2023 01:39:16] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:39:16,996 INFO | 127.0.0.1 - - [16/May/2023 01:39:16] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:39:17,192 INFO | 127.0.0.1 - - [16/May/2023 01:39:17] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:39:17,287 INFO | 127.0.0.1 - - [16/May/2023 01:39:17] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:39:17,655 INFO | 127.0.0.1 - - [16/May/2023 01:39:17] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:39:17,657 INFO | 127.0.0.1 - - [16/May/2023 01:39:17] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:39:24,570 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:39:24,571 INFO | 127.0.0.1 - - [16/May/2023 01:39:24] "[35m[1mPUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=1 HTTP/1.1[0m" 204 -
+2023-05-16 01:43:18,915 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:43:18,915 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:43:24,418 INFO | 127.0.0.1 - - [16/May/2023 01:43:24] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:43:24,448 INFO | 127.0.0.1 - - [16/May/2023 01:43:24] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:43:24,678 INFO | 127.0.0.1 - - [16/May/2023 01:43:24] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:43:24,740 INFO | 127.0.0.1 - - [16/May/2023 01:43:24] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:43:25,105 INFO | 127.0.0.1 - - [16/May/2023 01:43:25] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:43:25,106 INFO | 127.0.0.1 - - [16/May/2023 01:43:25] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:43:37,295 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:43:37,296 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 01:43:37,297 INFO | 127.0.0.1 - - [16/May/2023 01:43:37] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=1 HTTP/1.1" 200 -
+2023-05-16 01:47:10,696 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:47:10,697 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:47:18,169 INFO | 127.0.0.1 - - [16/May/2023 01:47:18] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:47:18,201 INFO | 127.0.0.1 - - [16/May/2023 01:47:18] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:47:18,435 INFO | 127.0.0.1 - - [16/May/2023 01:47:18] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:47:18,495 INFO | 127.0.0.1 - - [16/May/2023 01:47:18] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:47:18,852 INFO | 127.0.0.1 - - [16/May/2023 01:47:18] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:47:18,855 INFO | 127.0.0.1 - - [16/May/2023 01:47:18] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:47:26,144 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:47:26,144 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 01:47:26,145 INFO | 127.0.0.1 - - [16/May/2023 01:47:26] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=2 HTTP/1.1" 200 -
+2023-05-16 01:47:32,683 INFO | 127.0.0.1 - - [16/May/2023 01:47:32] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:47:32,867 INFO | 127.0.0.1 - - [16/May/2023 01:47:32] "GET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js.map HTTP/1.1" 200 -
+2023-05-16 01:47:32,868 INFO | 127.0.0.1 - - [16/May/2023 01:47:32] "GET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js.map HTTP/1.1" 200 -
+2023-05-16 01:47:32,961 INFO | 127.0.0.1 - - [16/May/2023 01:47:32] "GET /rest/inventory-ms/v1.0/ui/swagger-ui.css.map HTTP/1.1" 200 -
+2023-05-16 01:47:53,573 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:47:53,573 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 01:47:53,574 INFO | 127.0.0.1 - - [16/May/2023 01:47:53] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=2 HTTP/1.1" 200 -
+2023-05-16 01:49:30,659 INFO | 127.0.0.1 - - [16/May/2023 01:49:30] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:49:30,678 INFO | 127.0.0.1 - - [16/May/2023 01:49:30] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:49:30,922 INFO | 127.0.0.1 - - [16/May/2023 01:49:30] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:49:30,984 INFO | 127.0.0.1 - - [16/May/2023 01:49:30] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:49:31,158 INFO | 127.0.0.1 - - [16/May/2023 01:49:31] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css.map HTTP/1.1[0m" 304 -
+2023-05-16 01:49:31,447 INFO | 127.0.0.1 - - [16/May/2023 01:49:31] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:49:31,521 INFO | 127.0.0.1 - - [16/May/2023 01:49:31] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:49:31,584 INFO | 127.0.0.1 - - [16/May/2023 01:49:31] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js.map HTTP/1.1[0m" 304 -
+2023-05-16 01:49:31,594 INFO | 127.0.0.1 - - [16/May/2023 01:49:31] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js.map HTTP/1.1[0m" 304 -
+2023-05-16 01:49:40,265 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:49:40,266 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 01:49:40,267 INFO | 127.0.0.1 - - [16/May/2023 01:49:40] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=2 HTTP/1.1" 200 -
+2023-05-16 01:52:59,546 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:52:59,546 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:53:03,977 INFO | 127.0.0.1 - - [16/May/2023 01:53:03] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:53:04,010 INFO | 127.0.0.1 - - [16/May/2023 01:53:04] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:53:04,215 INFO | 127.0.0.1 - - [16/May/2023 01:53:04] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:53:04,294 INFO | 127.0.0.1 - - [16/May/2023 01:53:04] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:53:04,816 INFO | 127.0.0.1 - - [16/May/2023 01:53:04] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:53:04,820 INFO | 127.0.0.1 - - [16/May/2023 01:53:04] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:53:10,899 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:53:10,900 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 01:53:10,901 INFO | 127.0.0.1 - - [16/May/2023 01:53:10] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=2 HTTP/1.1" 200 -
+2023-05-16 01:54:36,602 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:54:36,603 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:54:40,383 INFO | 127.0.0.1 - - [16/May/2023 01:54:40] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:54:40,416 INFO | 127.0.0.1 - - [16/May/2023 01:54:40] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:54:40,643 INFO | 127.0.0.1 - - [16/May/2023 01:54:40] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:54:40,705 INFO | 127.0.0.1 - - [16/May/2023 01:54:40] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:54:41,058 INFO | 127.0.0.1 - - [16/May/2023 01:54:41] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:54:41,062 INFO | 127.0.0.1 - - [16/May/2023 01:54:41] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:54:46,416 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:54:46,417 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 01:54:46,418 INFO | 127.0.0.1 - - [16/May/2023 01:54:46] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -
+2023-05-16 01:55:22,472 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:55:22,473 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:55:28,337 INFO | 127.0.0.1 - - [16/May/2023 01:55:28] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:55:28,371 INFO | 127.0.0.1 - - [16/May/2023 01:55:28] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:55:28,578 INFO | 127.0.0.1 - - [16/May/2023 01:55:28] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:55:28,656 INFO | 127.0.0.1 - - [16/May/2023 01:55:28] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:55:29,021 INFO | 127.0.0.1 - - [16/May/2023 01:55:29] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:55:29,024 INFO | 127.0.0.1 - - [16/May/2023 01:55:29] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:55:32,948 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:55:32,948 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 01:55:32,950 INFO | 127.0.0.1 - - [16/May/2023 01:55:32] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=2 HTTP/1.1" 200 -
+2023-05-16 01:55:36,279 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:55:36,279 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 01:55:36,280 INFO | 127.0.0.1 - - [16/May/2023 01:55:36] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=2 HTTP/1.1" 200 -
+2023-05-16 01:57:22,060 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:57:22,060 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:57:25,385 INFO | 127.0.0.1 - - [16/May/2023 01:57:25] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:57:25,418 INFO | 127.0.0.1 - - [16/May/2023 01:57:25] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:57:25,643 INFO | 127.0.0.1 - - [16/May/2023 01:57:25] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:57:25,706 INFO | 127.0.0.1 - - [16/May/2023 01:57:25] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:57:26,073 INFO | 127.0.0.1 - - [16/May/2023 01:57:26] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:57:26,074 INFO | 127.0.0.1 - - [16/May/2023 01:57:26] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:57:29,028 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:57:29,028 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 01:57:29,028 INFO | 127.0.0.1 - - [16/May/2023 01:57:29] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=1 HTTP/1.1" 200 -
+2023-05-16 01:57:32,445 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:57:32,445 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 01:57:32,446 INFO | 127.0.0.1 - - [16/May/2023 01:57:32] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -
+2023-05-16 01:59:07,122 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 01:59:07,122 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 01:59:10,824 INFO | 127.0.0.1 - - [16/May/2023 01:59:10] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 01:59:10,858 INFO | 127.0.0.1 - - [16/May/2023 01:59:10] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 01:59:11,083 INFO | 127.0.0.1 - - [16/May/2023 01:59:11] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 01:59:11,146 INFO | 127.0.0.1 - - [16/May/2023 01:59:11] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 01:59:11,509 INFO | 127.0.0.1 - - [16/May/2023 01:59:11] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 01:59:11,513 INFO | 127.0.0.1 - - [16/May/2023 01:59:11] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 01:59:16,196 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 01:59:16,197 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 01:59:16,198 INFO | 127.0.0.1 - - [16/May/2023 01:59:16] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -
+2023-05-16 02:08:23,844 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 02:08:23,844 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 02:08:27,940 INFO | 127.0.0.1 - - [16/May/2023 02:08:27] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 02:08:27,974 INFO | 127.0.0.1 - - [16/May/2023 02:08:27] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 02:08:28,199 INFO | 127.0.0.1 - - [16/May/2023 02:08:28] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 02:08:28,264 INFO | 127.0.0.1 - - [16/May/2023 02:08:28] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 02:08:28,771 INFO | 127.0.0.1 - - [16/May/2023 02:08:28] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 02:08:28,774 INFO | 127.0.0.1 - - [16/May/2023 02:08:28] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 02:08:35,952 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 02:08:35,953 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 02:08:35,954 INFO | 127.0.0.1 - - [16/May/2023 02:08:35] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -
+2023-05-16 02:09:23,474 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 02:09:23,474 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 02:09:31,606 INFO | 127.0.0.1 - - [16/May/2023 02:09:31] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 02:09:31,692 INFO | 127.0.0.1 - - [16/May/2023 02:09:31] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 02:09:31,863 INFO | 127.0.0.1 - - [16/May/2023 02:09:31] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 02:09:31,925 INFO | 127.0.0.1 - - [16/May/2023 02:09:31] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 02:09:32,278 INFO | 127.0.0.1 - - [16/May/2023 02:09:32] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 02:09:32,281 INFO | 127.0.0.1 - - [16/May/2023 02:09:32] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 02:09:36,608 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 02:09:36,609 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 0 milisegundos
+2023-05-16 02:09:36,610 INFO | 127.0.0.1 - - [16/May/2023 02:09:36] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -
+2023-05-16 02:46:00,816 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 02:46:00,816 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 02:46:04,693 INFO | 127.0.0.1 - - [16/May/2023 02:46:04] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 02:46:04,731 INFO | 127.0.0.1 - - [16/May/2023 02:46:04] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 02:46:04,951 INFO | 127.0.0.1 - - [16/May/2023 02:46:04] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 02:46:05,027 INFO | 127.0.0.1 - - [16/May/2023 02:46:05] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 02:46:05,550 INFO | 127.0.0.1 - - [16/May/2023 02:46:05] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 02:46:05,577 INFO | 127.0.0.1 - - [16/May/2023 02:46:05] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 02:46:46,130 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 02:46:46,132 INFO | 127.0.0.1 - - [16/May/2023 02:46:46] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -
+2023-05-16 03:07:42,600 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 03:07:42,601 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 03:07:46,787 INFO | 127.0.0.1 - - [16/May/2023 03:07:46] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 03:07:46,824 INFO | 127.0.0.1 - - [16/May/2023 03:07:46] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 03:07:47,045 INFO | 127.0.0.1 - - [16/May/2023 03:07:47] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 03:07:47,108 INFO | 127.0.0.1 - - [16/May/2023 03:07:47] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 03:07:47,647 INFO | 127.0.0.1 - - [16/May/2023 03:07:47] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 03:07:47,651 INFO | 127.0.0.1 - - [16/May/2023 03:07:47] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 03:09:23,310 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 03:09:23,310 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 03:26:47,363 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 03:26:47,364 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 03:26:52,779 INFO | 127.0.0.1 - - [16/May/2023 03:26:52] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 03:26:52,816 INFO | 127.0.0.1 - - [16/May/2023 03:26:52] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 03:26:53,023 INFO | 127.0.0.1 - - [16/May/2023 03:26:53] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 03:26:53,101 INFO | 127.0.0.1 - - [16/May/2023 03:26:53] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 03:26:53,465 INFO | 127.0.0.1 - - [16/May/2023 03:26:53] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 03:26:53,467 INFO | 127.0.0.1 - - [16/May/2023 03:26:53] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 03:27:33,322 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 03:27:33,322 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 03:27:37,739 INFO | 127.0.0.1 - - [16/May/2023 03:27:37] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 03:27:37,769 INFO | 127.0.0.1 - - [16/May/2023 03:27:37] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 03:27:38,001 INFO | 127.0.0.1 - - [16/May/2023 03:27:38] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 03:27:38,063 INFO | 127.0.0.1 - - [16/May/2023 03:27:38] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 03:27:38,464 INFO | 127.0.0.1 - - [16/May/2023 03:27:38] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 03:27:38,468 INFO | 127.0.0.1 - - [16/May/2023 03:27:38] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 03:27:44,768 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 03:27:44,770 INFO | Inicio de conexión
+2023-05-16 03:27:45,479 INFO | Inicio de conexión
+2023-05-16 03:27:46,251 INFO | Fin de conexión
+2023-05-16 03:27:46,252 CRITICAL | 'list' object has no attribute 'keys'
+2023-05-16 03:27:46,253 INFO | Fin de conexión
+2023-05-16 03:27:46,255 INFO | 127.0.0.1 - - [16/May/2023 03:27:46] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=2 HTTP/1.1" 200 -
+2023-05-16 03:29:35,670 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 03:29:35,670 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 03:29:40,286 INFO | 127.0.0.1 - - [16/May/2023 03:29:40] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 03:29:40,320 INFO | 127.0.0.1 - - [16/May/2023 03:29:40] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 03:29:40,547 INFO | 127.0.0.1 - - [16/May/2023 03:29:40] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 03:29:40,610 INFO | 127.0.0.1 - - [16/May/2023 03:29:40] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 03:29:40,962 INFO | 127.0.0.1 - - [16/May/2023 03:29:40] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 03:29:40,965 INFO | 127.0.0.1 - - [16/May/2023 03:29:40] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 03:29:45,558 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 03:29:45,561 INFO | Inicio de conexión
+2023-05-16 03:29:46,224 INFO | Inicio de conexión
+2023-05-16 03:29:46,986 INFO | Fin de conexión
+2023-05-16 03:29:46,987 INFO | Fin de conexión
+2023-05-16 03:29:46,990 INFO | 127.0.0.1 - - [16/May/2023 03:29:46] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -
+2023-05-16 03:30:22,021 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 03:30:22,021 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 03:30:25,626 INFO | 127.0.0.1 - - [16/May/2023 03:30:25] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 03:30:25,661 INFO | 127.0.0.1 - - [16/May/2023 03:30:25] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 03:30:25,886 INFO | 127.0.0.1 - - [16/May/2023 03:30:25] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 03:30:25,948 INFO | 127.0.0.1 - - [16/May/2023 03:30:25] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 03:30:26,312 INFO | 127.0.0.1 - - [16/May/2023 03:30:26] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 03:30:26,315 INFO | 127.0.0.1 - - [16/May/2023 03:30:26] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 03:30:30,264 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 03:30:30,268 INFO | Inicio de conexión
+2023-05-16 03:30:31,000 INFO | Inicio de conexión
+2023-05-16 03:30:31,769 INFO | Fin de conexión
+2023-05-16 03:30:31,771 INFO | Fin de conexión
+2023-05-16 03:30:31,774 INFO | 127.0.0.1 - - [16/May/2023 03:30:31] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -
+2023-05-16 03:32:30,468 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 03:32:30,469 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 03:32:34,240 INFO | 127.0.0.1 - - [16/May/2023 03:32:34] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 03:32:34,270 INFO | 127.0.0.1 - - [16/May/2023 03:32:34] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 03:32:34,501 INFO | 127.0.0.1 - - [16/May/2023 03:32:34] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 03:32:34,562 INFO | 127.0.0.1 - - [16/May/2023 03:32:34] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 03:32:34,899 INFO | 127.0.0.1 - - [16/May/2023 03:32:34] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 03:32:34,902 INFO | 127.0.0.1 - - [16/May/2023 03:32:34] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 03:32:38,734 INFO | Funcion: 'get_item_by_id' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 03:32:38,737 INFO | Inicio de conexión
+2023-05-16 03:32:39,441 INFO | Inicio de conexión
+2023-05-16 03:32:40,206 INFO | Fin de conexión
+2023-05-16 03:32:40,208 CRITICAL | 'list' object has no attribute 'values'
+2023-05-16 03:32:40,208 INFO | Fin de conexión
+2023-05-16 03:32:40,211 INFO | 127.0.0.1 - - [16/May/2023 03:32:40] "GET /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -
+2023-05-16 03:41:22,482 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 03:41:22,482 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 03:41:27,626 INFO | 127.0.0.1 - - [16/May/2023 03:41:27] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 03:41:27,661 INFO | 127.0.0.1 - - [16/May/2023 03:41:27] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 03:41:27,885 INFO | 127.0.0.1 - - [16/May/2023 03:41:27] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 03:41:27,950 INFO | 127.0.0.1 - - [16/May/2023 03:41:27] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 03:41:28,293 INFO | 127.0.0.1 - - [16/May/2023 03:41:28] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 03:41:28,295 INFO | 127.0.0.1 - - [16/May/2023 03:41:28] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 03:42:35,004 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 03:42:35,005 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 03:42:40,867 INFO | 127.0.0.1 - - [16/May/2023 03:42:40] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 03:42:40,902 INFO | 127.0.0.1 - - [16/May/2023 03:42:40] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 03:42:41,127 INFO | 127.0.0.1 - - [16/May/2023 03:42:41] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 03:42:41,186 INFO | 127.0.0.1 - - [16/May/2023 03:42:41] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 03:42:41,555 INFO | 127.0.0.1 - - [16/May/2023 03:42:41] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 03:42:41,576 INFO | 127.0.0.1 - - [16/May/2023 03:42:41] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 03:43:18,109 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 03:43:18,111 INFO | 127.0.0.1 - - [16/May/2023 03:43:18] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -
+2023-05-16 03:45:04,213 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 03:45:04,213 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 03:45:08,795 INFO | 127.0.0.1 - - [16/May/2023 03:45:08] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 03:45:08,827 INFO | 127.0.0.1 - - [16/May/2023 03:45:08] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 03:45:09,052 INFO | 127.0.0.1 - - [16/May/2023 03:45:09] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 03:45:09,127 INFO | 127.0.0.1 - - [16/May/2023 03:45:09] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 03:45:09,494 INFO | 127.0.0.1 - - [16/May/2023 03:45:09] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 03:45:09,497 INFO | 127.0.0.1 - - [16/May/2023 03:45:09] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 03:45:19,978 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 03:45:19,981 INFO | Inicio de conexión
+2023-05-16 03:45:20,955 INFO | Fin de conexión
+2023-05-16 03:45:20,958 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-16 03:45:20,960 INFO | 127.0.0.1 - - [16/May/2023 03:45:20] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -
+2023-05-16 03:46:48,689 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 03:46:48,692 INFO | Inicio de conexión
+2023-05-16 03:46:49,617 INFO | Fin de conexión
+2023-05-16 03:46:49,619 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-16 03:46:49,620 INFO | 127.0.0.1 - - [16/May/2023 03:46:49] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=6 HTTP/1.1" 200 -
+2023-05-16 03:48:18,831 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 03:48:18,833 INFO | Inicio de conexión
+2023-05-16 03:48:19,770 INFO | Fin de conexión
+2023-05-16 03:48:19,771 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Fin de transacción, procesada en: 1000 milisegundos
+2023-05-16 03:48:19,772 INFO | 127.0.0.1 - - [16/May/2023 03:48:19] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=6&itemCantidad=100 HTTP/1.1" 200 -
+2023-05-16 04:40:43,407 INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.105:8080
+2023-05-16 04:40:43,408 INFO | [33mPress CTRL+C to quit[0m
+2023-05-16 04:40:48,063 INFO | 127.0.0.1 - - [16/May/2023 04:40:48] "GET /rest/inventory-ms/v1.0/ui/ HTTP/1.1" 200 -
+2023-05-16 04:40:48,100 INFO | 127.0.0.1 - - [16/May/2023 04:40:48] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui.css HTTP/1.1[0m" 304 -
+2023-05-16 04:40:48,316 INFO | 127.0.0.1 - - [16/May/2023 04:40:48] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2023-05-16 04:40:48,395 INFO | 127.0.0.1 - - [16/May/2023 04:40:48] "[36mGET /rest/inventory-ms/v1.0/ui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2023-05-16 04:40:48,935 INFO | 127.0.0.1 - - [16/May/2023 04:40:48] "GET /rest/inventory-ms/v1.0/openapi.json HTTP/1.1" 200 -
+2023-05-16 04:40:48,940 INFO | 127.0.0.1 - - [16/May/2023 04:40:48] "[36mGET /rest/inventory-ms/v1.0/ui/favicon-32x32.png HTTP/1.1[0m" 304 -
+2023-05-16 04:41:31,134 INFO | Funcion: 'get_item_buy' - Paquete: 'swagger_server.controllers.item_view' - Mensaje: Inicio de transacción
+2023-05-16 04:41:31,137 INFO | Inicio de conexión
+2023-05-16 04:41:31,828 INFO | Inicio de conexión
+2023-05-16 04:41:32,587 INFO | Fin de conexión
+2023-05-16 04:41:32,588 INFO | Fin de conexión
+2023-05-16 04:41:32,591 INFO | 127.0.0.1 - - [16/May/2023 04:41:32] "PUT /rest/inventory-ms/v1.0/Item/buy?itemId=1&itemCantidad=3 HTTP/1.1" 200 -

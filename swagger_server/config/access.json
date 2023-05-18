@@ -1,0 +1,16 @@
+{
+    "DB": {
+        "POSTGRES" : {
+            "TASK": {
+                "HOST": "drona.db.elephantsql.com",
+                "DB_NAME": "qahtepnu",
+                "USER": "qahtepnu",
+                "PASSWORD": "qamZOPpPvfzj-S93mCMmysPqPc8Wh15m"
+            }
+        }
+    },
+    "EMAIL": {
+        "USER_EMAIL": "",
+        "USER_PASSWORD" : ""
+    }
+}
